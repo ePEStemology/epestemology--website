@@ -1,0 +1,1 @@
+const r=function(){var a=function(){const n=document.body.querySelector("#mainNav");n&&(window.scrollY>100?n.classList.remove("navbar-shrink"):n.classList.add("navbar-shrink"))};a(),document.addEventListener("scroll",a)};export{r as i};

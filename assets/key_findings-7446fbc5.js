@@ -1,0 +1,1 @@
+import"./variables.module-21a691b7.js";import{i as n}from"./shared-2c7ed7be.js";$(document).ready(function(){n(),a()});function a(){$("nav#key-message-links a").on("click",function(){let i=$(this);i.hasClass("active")||($("nav#key-message-links a").removeClass("active"),i.addClass("active"))})}
